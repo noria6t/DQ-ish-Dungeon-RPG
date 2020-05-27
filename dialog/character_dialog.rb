@@ -1,0 +1,2 @@
+module CharacterDialog
+end
